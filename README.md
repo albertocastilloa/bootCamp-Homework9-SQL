@@ -1,6 +1,6 @@
 # Employee Database: A Mystery in Two Parts
 
-![sql.png](sql.png)
+### check_csv_integrity.ipynb contains all procedure to understand tables and data types. Diagram_v1.sql is another version of diagram putting a primary key for each table thinking in best practices.
 
 ## Background
 
